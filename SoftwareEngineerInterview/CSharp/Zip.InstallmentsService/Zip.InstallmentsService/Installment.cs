@@ -21,5 +21,5 @@ namespace Zip.InstallmentsService
         /// Gets or sets the amount of the installment.
         /// </summary>
         public decimal Amount { get; set; }
-	}
+    }
 }
